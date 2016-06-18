@@ -1,4 +1,4 @@
-# Visualizing a critical state of sync
+# Visualize a critical state of sync
 
 By [Andrew Noble](http://two.ucdavis.edu/~andrewnoble)
 
@@ -32,4 +32,5 @@ python critical_sync_anim.py
 ## Acknowledgements
 
 This works is support by an <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1344187&amp;HistoricalAwards=false">NSF
-INSPIRE award</a> from the National Science Foundation.  Details are published in <a href="http://www.nature.com/ncomms/2015/150408/ncomms7664/full/ncomms7664.html">Nature Communications</a>.
+INSPIRE award</a> from the National Science Foundation.  
+Details are published in <a href="http://www.nature.com/ncomms/2015/150408/ncomms7664/full/ncomms7664.html">Nature Communications</a>.
