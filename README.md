@@ -31,4 +31,5 @@ python critical_sync_anim.py
 
 ## Acknowledgements
 
-These are the preliminary results of a collaboration with [Alan Hastings](http://two.ucdavis.edu/~me), [Jonathan Machta](http://people.umass.edu/machta), [Ottar Bjornstad](http://ento.psu.edu/directory/onb), and [Bryan Grenfell](https://www.princeton.edu/step/people/faculty/bryan-grenfell).
+This works is support by an <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1344187&amp;HistoricalAwards=false">NSF
+INSPIRE award</a> from the National Science Foundation.  Details are published in <a href="http://www.nature.com/ncomms/2015/150408/ncomms7664/full/ncomms7664.html">Nature Communications</a>.
