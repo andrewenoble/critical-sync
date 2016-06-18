@@ -17,7 +17,7 @@ Clone the repo.
 ```
 git clone https://github.com/andrewenoble/critical-sync.git
 ```
-Run the Monte Carlo simulation written in C++ (with header files are from Numerical Recipes 3rd ed).  200 1MB output files will be written to ```critical-sync/simulation_output```.  This may take a few minutes.  The place holder file ```simulation_output/m_0.txt``` will be overwritten.  
+Run the Monte Carlo simulation written in C++ (using header files from Numerical Recipes 3rd ed).  200 1MB output files will be written to ```critical-sync/simulation_output```.  This may take a few minutes.  The place holder file ```simulation_output/m_0.txt``` will be overwritten.  
 ```
 cd critical-sync/simulation
 g++ asymp.cpp -O3 
