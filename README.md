@@ -31,4 +31,4 @@ python critical_sync_anim.py
 
 ## Acknowledgements
 
-These are preliminary results emerging from a collaboration with [Alan Hastings](http://two.ucdavis.edu/~me), [Jonathan Machta](http://people.umass.edu/machta), [Ottar Bjornstad](http://ento.psu.edu/directory/onb), and [Bryan Grenfell](https://www.princeton.edu/step/people/faculty/bryan-grenfell).
+These are the preliminary results of a collaboration with [Alan Hastings](http://two.ucdavis.edu/~me), [Jonathan Machta](http://people.umass.edu/machta), [Ottar Bjornstad](http://ento.psu.edu/directory/onb), and [Bryan Grenfell](https://www.princeton.edu/step/people/faculty/bryan-grenfell).
