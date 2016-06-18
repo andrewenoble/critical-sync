@@ -8,7 +8,7 @@ This repo contains the C++ and Python files used to simulate and animate a dynam
 
 ## Requirements
 
-* gcc
+* g++
 * Python (scipy, matplotlib, pylab)
 
 ## Usage
