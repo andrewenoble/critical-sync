@@ -1,10 +1,10 @@
 # Visualize a critical state of sync
 
-By [Andrew Noble](http://two.ucdavis.edu/~andrewnoble)
+By [Andrew Noble](http://andrewenoble.com/research.html)
 
 ## About
 
-This repo contains the C++ and Python files used to simulate and animate a dynamical 2D Ising critical state in the collective synchronization of noisy coupled nonlinear two-cycle oscillators.  The end result is the animation at the top of  [this webpage](http://two.ucdavis.edu/~andrewnoble/research.html).
+This repo contains the C++ and Python files used to simulate and animate a dynamical 2D Ising critical state in the collective synchronization of noisy coupled nonlinear two-cycle oscillators.  The end result is the animation at the top of  [this webpage](http://andrewenoble.com/research.html).
 
 ## Requirements
 
