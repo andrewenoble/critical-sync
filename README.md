@@ -32,7 +32,7 @@ cd ../animation
 python critical_sync_anim.py
 ```
 
-Similar MCMC simulations can be distributed over a SLURM cluster to obtain precision measurements using the shell scripts contained in ```distributing_computing``` folder.  I hope to add more details on the usage of this custom software soon.
+Similar MCMC simulations can be distributed over a SLURM cluster to obtain precision measurements using the shell scripts contained in the ```distributing_computing``` folder.  I hope to add more details on the usage of this custom software soon.
 
 ## Acknowledgements
 
